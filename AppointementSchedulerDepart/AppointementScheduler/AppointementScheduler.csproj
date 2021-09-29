@@ -52,6 +52,8 @@
     <Compile Include="AddAppointementForm.Designer.cs">
       <DependentUpon>AddAppointementForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Banque\Client.cs" />
+    <Compile Include="Banque\Conseiller.cs" />
     <Compile Include="Calendar\CalendarEvent.cs" />
     <Compile Include="Calendar\CalendarEvents.cs" />
     <Compile Include="Calendar\DaysOfWeek.cs" />
